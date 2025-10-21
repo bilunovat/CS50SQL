@@ -1,5 +1,5 @@
 <h1 align="center">
-Harvard CS50’s Introduction to Databases with SQL — CS50SQL 2025
+Harvard CS50’s Introduction to Databases with SQL — CS50SQL 2024
 </h1>
 
 <p align="center">
@@ -14,34 +14,35 @@ This repository is intended only for educational use.
 <br>
 
 ## Table of Contents
-### [Week 0]()
+### [Week 0 : Querying]()
 - Cyberchase
 - 36 Views
 - Players
+- Normals
 
-### [Week 1]()
-- "Paclages, Please"
+### [Week 1 : Relating]()
+- "Packages, Please"
 - DESE
 - Moneyball
 
-### [Week 2]()
+### [Week 2 : Designing]()
 - ATL
 - Happy to Connect
 - Union Square Donuts
 
-### [Week 3]()
+### [Week 3 : Writing]()
 - Don't Panic!
 - Meteorite Cleaning
 
-### [Week 4]()
+### [Week 4 : Viewing]()
 - Census Taker
 - The Private Eye
 - Bed and Breakfast
 
-### [Week 5]()
+### [Week 5 : Optimising]()
 - not yet completed
 
-### [Week 6]()
+### [Week 6 : Scaling]()
 - not yet completed
 
 
