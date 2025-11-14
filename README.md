@@ -34,7 +34,7 @@ This repository is intended only for educational use.
 - Don't Panic!
 - Meteorite Cleaning
 
-### [Week 4 : Viewing]()
+### [Week 4 : Viewing](https://github.com/bilunovat/CS50SQL/tree/main/week_4)
 - Census Taker
 - The Private Eye
 - Bed and Breakfast
