@@ -14,23 +14,23 @@ This repository is intended only for educational use.
 <br>
 
 ## Table of Contents
-### [Week 0 : Querying]()
+### [Week 0 : Querying](https://github.com/bilunovat/CS50SQL/tree/main/week_0)
 - Cyberchase
 - 36 Views
 - Players
 - Normals
 
-### [Week 1 : Relating]()
+### [Week 1 : Relating](https://github.com/bilunovat/CS50SQL/tree/main/week_1)
 - "Packages, Please"
 - DESE
 - Moneyball
 
-### [Week 2 : Designing]()
+### [Week 2 : Designing](https://github.com/bilunovat/CS50SQL/tree/main/week_2)
 - ATL
 - Happy to Connect
 - Union Square Donuts
 
-### [Week 3 : Writing]()
+### [Week 3 : Writing](https://github.com/bilunovat/CS50SQL/tree/main/week_3)
 - Don't Panic!
 - Meteorite Cleaning
 
@@ -40,11 +40,13 @@ This repository is intended only for educational use.
 - Bed and Breakfast
 
 ### [Week 5 : Optimising]()
-- not yet completed
+- In a Snap
+- your.harvard
 
 ### [Week 6 : Scaling]()
-- not yet completed
+- Happy to Connect (Sentimental) 
+- From the Deep
+- Don't Panic with Java
 
 
 ### [Final Project]()
-- not yet completed
