@@ -39,11 +39,11 @@ This repository is intended only for educational use.
 - The Private Eye
 - Bed and Breakfast
 
-### [Week 5 : Optimising]()
+### [Week 5 : Optimising](https://github.com/bilunovat/CS50SQL/tree/main/week_5)
 - In a Snap
 - your.harvard
 
-### [Week 6 : Scaling]()
+### [Week 6 : Scaling](https://github.com/bilunovat/CS50SQL/tree/main/week_6)
 - Happy to Connect (Sentimental) 
 - From the Deep
 - Don't Panic with Java
