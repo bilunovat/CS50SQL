@@ -11,9 +11,12 @@ This repository contains my personal solutions to the problem sets and exercises
 These solutions are for an ongoing course. Do not view any code here until you have attempted the problem sets yourself. Using these solutions to complete assignments defeats the learning purpose of the course.
 This repository is intended only for educational use.
 
+<a href="https://certificates.cs50.io/5b93991a-f5c4-46df-ad77-a53a28948d22.png?size=letter">
+  <img src="https://certificates.cs50.io/5b93991a-f5c4-46df-ad77-a53a28948d22.png?size=letter" alt="cs50p-certificates" />
+</a>
+
 <br>
 
-## Table of Contents
 ### [Week 0 : Querying](https://github.com/bilunovat/CS50SQL/tree/main/week_0)
 - Cyberchase
 - 36 Views
@@ -48,5 +51,4 @@ This repository is intended only for educational use.
 - From the Deep
 - Don't Panic with Java
 
-
-### [Final Project]()
+### [Final Project](https://github.com/bilunovat/CS50SQL/tree/main/final_project)
